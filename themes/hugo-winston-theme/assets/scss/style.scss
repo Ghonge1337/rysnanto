@@ -39,19 +39,20 @@ body {
   margin: 0;
   padding: 20px;
   overflow-x: hidden;
-
+  
   @include breakpoint('small') {
     padding: 50px;
   }
   &.frame {
     min-height: 100vh;
     border: 18px solid var(--highlight-color);
-    border-radius:20px;
+    border-top-left-radius:15px;
+    border-top-right-radius:15px;
   }
 }
 
 .wrapper {
   max-width: 1000px;
   margin: 0 auto;
-  border-radius:20px;
+  
 }
