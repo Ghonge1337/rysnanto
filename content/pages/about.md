@@ -6,44 +6,10 @@ menu:
     weight: 1
 
 ---
-## Contra vagos
+## Ghonge1337
 
-Lorem _markdownum notam si_ lintea meque certa [en meumque
-illis](#cohibentem-iuvenaliter), diu fatigant, nec praedae concustodita arcet.
-[Paviunt castris](#nemorisque-urimur-violentus) cur errat ventis causa! Silvas
-sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum
-utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
+Perkenalkan nama saya Rysnanto atau nama samaran saya Ghonge1337.Nomor 1337 merupakan cirikhas dari nama group blogger yang berasal dari Jawa tengah tepatnya di Rembang.Kenapa kok Ghonge? Alasan nya yaitu pada saat LKS Jateng ( Lomba Ketrampilan Siswa ) Membutuh kan akun github untuk meng-upload semua jawaban ke repository masing masing karena acara nya online, nah pada saat itu aku gak bisa yang namanya ngepush ke github padahal sebelum sebelumnya upload ke github sangat mudah sekali,entah karena saya grogi atau gimana. Pada saat itu spontan terlontar kata-kata Ghonge dan saya pikir pikir namanya cukup keren di banding nama saya sendiri Rysnanto1337. Dan pada saat itulah nama Ghonge1337 menjadi nama kedua saya.
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+Btw saya masih duduk di bangku SMK. Setelah 2 tahun lamanya sekolah daring akhirnya luring juga.Saking gabutnya dulu aku ikut anggota Pramuka (Dewan Ambalan) dan sempet juga menjadi calon Pradana ( Terpaksa ) hahaha. Jujur saja aku lupa semua tentang Pramuka, semenjak masuk dewan Ambalan lumayan lah sedikit sedikit bisa memahami kembali.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
-## Ducem oculos pallor tale quoque
-
-Pectora de Hebe veste mansit nemorisque oppugnare deos, interea eo calescit
-**invita insidiae** Amymonen, semper respiciens vocato, illis! Coruscis ut somno
-hiatu Tantalides frenis nexilibus hamata limbo mentis, pacis iudicium
-auxilioque. Genus dolori, me ira hae inpediunt tellus, nascendi Boreas!
-Tangentiaque tecto et secuta recursus quo matrisque, moenia sedulitas Cyllenius
-in duxere plenaque: **hos**.
-
-1. Olim pulvere
-2. Verus ego ovantem mihi
-3. Tenuit erat semina superari
-4. Dabis natis hoc genu in quidem dumque
-
-Per tenuata [potiora](#inmeritae-discordemque-iterum) dedit caelo admota
-iniustus decipere do loca multa non parat. Ingratos his ut inde credite sensit
-sorte. Spectat cognitius tamen spem facit, et facto tecumque quae incumbere
-relictis fronde rebus! Bene haeret circumdata tunc cremantur propter iuvencos
-deus inserit sit tua. Pompa non precor procumbit inania lacrimas sacra credetis:
-Oceano, femina?
-
-Bacchantum neque. Humum ut violasse quam inmotos! Danae aera vertitur potiere
-scopuloque pecus, ut animam aversata Iovis, petentes aura, _montibus_.
+Jurusan saya di SMK mengambil RPL ( Rekayasa Perangkat Lunak).Dalam 2 tahun saya sudah belajar banyak namun belum begitu expert,Saat PKL aku baru tau dunia pemrogaman itu seperti apa,pasalnya pada saat saya di Kominfo aku melihat langsung bagaimana para pekerja sebagai programmer di lingkungan kerja,Berat coyyy. Mungkin itu bagian pengalaman saya dan pembelajaran saya kedepan.
