@@ -1,11 +1,11 @@
 ---
-title: 'About'
+title: About
 image: images/writer.jpeg
 menu:
   main:
-    name: "About"
----
+    weight: 1
 
+---
 ## Contra vagos
 
 Lorem _markdownum notam si_ lintea meque certa [en meumque

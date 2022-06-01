@@ -1,28 +1,21 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Rysnanto"
-themesDir = "themes"
-theme = "hugo-winston-theme"
-
+paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
-paginate = 3
-
-[module]
-  [module.hugoVersion]
-    extended = true
-    min = "0.55.0"
-
+theme = "hugo-winston-theme"
+themesDir = "themes"
+title = "Rysnanto"
+[module.hugoVersion]
+extended = true
+min = "0.55.0"
 [params]
-  google_analytics_id = ""
-  twitter_handle = "@Rysnanto1"
-
-  showAuthorOnHomepage = true
-  showAuthorOnPosts = false
-  showPostsOnHomepage = false
-
-  addFrame = true
-  addDot = true
-
-  highlightColor = '#189AB4'
+addDot = true
+addFrame = true
+google_analytics_id = ""
+highlightColor = "#189AB4"
+showAuthorOnHomepage = true
+showAuthorOnPosts = false
+showPostsOnHomepage = false
+twitter_handle = "@Rysnanto1"
