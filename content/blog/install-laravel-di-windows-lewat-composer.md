@@ -1,6 +1,6 @@
 ---
 title: Begini Cara Install Laravel Di Windows Menggunakan Composer
-date: 2019-06-1
+date: 2017-06-01T14:15:59-06:00
 description: Laravel yang akan kita install semua di handle oleh Composer
 image: images/pos1laravelthumb.png
 draft: false
