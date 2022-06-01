@@ -8,7 +8,7 @@ menu:
 ---
 ## Ghonge1337
 
-![](/uploads/img-20220406-wa0019-removebg-preview-1.png)
+![](/uploads/img-20220406-wa0019-removebg-preview-1.jpg)
 
 Perkenalkan nama saya Rysnanto atau nama samaran saya Ghonge1337.Nomor 1337 merupakan cirikhas dari nama group blogger yang berasal dari Jawa tengah tepatnya di Rembang.Kenapa kok Ghonge? Alasan nya yaitu pada saat LKS Jateng ( Lomba Ketrampilan Siswa ) Membutuh kan akun github untuk meng-upload semua jawaban ke repository masing masing karena acara nya online, nah pada saat itu aku gak bisa yang namanya ngepush ke github padahal sebelum sebelumnya upload ke github sangat mudah sekali,entah karena saya grogi atau gimana. Pada saat itu spontan terlontar kata-kata Ghonge dan saya pikir pikir namanya cukup keren di banding nama saya sendiri Rysnanto1337. Dan pada saat itulah nama Ghonge1337 menjadi nama kedua saya.
 
