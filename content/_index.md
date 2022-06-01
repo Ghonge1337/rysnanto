@@ -1,6 +1,5 @@
 ---
-title: You don't start out writing good stuff
-description: The hallway smelt of boiled cabbage and old rag mats.
+title: Memulai Belajar Menulis Untuk Membuat Blog Yang Bermutu
 ---
 
-The hallway smelt of boiled cabbage and old rag mats. At one end of it a coloured poster, too large for indoor display, had been tacked to the wall. It depicted simply an enormous face, more than a metre wide: the face of a man of about forty-five, with a heavy black moustache and ruggedly handsome features. Winston made for the stairs. It was no use trying the lift. 
+Welcome Manusia! selamat datang di website rysnanto.eu.org, di website ini dapat menemukan keluh kesah saya, di platform inilah saya akan tulis semua cuitan saya. Kenapa Gak di Twitter? karena di twitter itu orang nya jahat guys wkwk ( canda ).di sini juga kamu dapat menemukan berbagai tutorial menarik lainnya seperti Kumpulan APK mod , Tentang Mmebuat Website dan lain-lain.
