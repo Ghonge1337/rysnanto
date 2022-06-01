@@ -1,8 +1,9 @@
 ---
 title: The revolution will be complete when the language is perfect
 date: 2019-08-07
-description: 'As soon as Winston had dealt with each of the messages, he clipped his speakwritten corrections to the appropriate copy of the Times and pushed them into the pneumatic tube. Then, with a movement which was as nearly as possible unconscious, he crumpled up the original message and any notes that he himself had made, and dropped them into the memory hole to be devoured by the flames.'
+description: "As soon as Winston had dealt with each of the messages, he clipped his speakwritten corrections to the appropriate copy of the Times and pushed them into the pneumatic tube. Then, with a movement which was as nearly as possible unconscious, he crumpled up the original message and any notes that he himself had made, and dropped them into the memory hole to be devoured by the flames."
 image: images/cctv2.jpeg
+draft: true
 ---
 
 ## He moved over to the window
@@ -42,13 +43,13 @@ quem bis cuius crede sparsas diversa diva. A inquit cingebant. Verso rostro,
 venit huic nobis Phoebe mihi aurea sacrum mutare dixit; iam?
 
 ```javascript
-$(window).scroll(function() {
+$(window).scroll(function () {
   // this will work when your window scrolled.
   var scroll = $(window).scrollTop(); //getting the scrolling height of window
   if (scroll > 100) {
-    $('.header').addClass('header-scrolled');
+    $(".header").addClass("header-scrolled");
   } else {
-    $('.header').removeClass('header-scrolled');
+    $(".header").removeClass("header-scrolled");
   }
 });
 ```

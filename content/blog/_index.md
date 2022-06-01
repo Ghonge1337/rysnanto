@@ -1,5 +1,5 @@
 ---
-title: 'Blog'
+title: "Cuitan Terbaru"
 date: 2019-02-24
 menu:
   main:
