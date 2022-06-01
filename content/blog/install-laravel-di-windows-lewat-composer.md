@@ -21,9 +21,9 @@ Setelah itu teman teman klick path pada system variabel setelah itu edit.
 tambahkan variabel baru (C:\xampp\php) tanpa tanda kurung setelah itu pilih oke, selesai... cek kembali dengan mengetikan (php -v)
 
 Oke sekarang teman-teman tinggal download aplikasi composer , link download ada diaas atau melalui website resmi composer.Jika sudah terunduh klick 2 kali aplikasi setup nya. di tampilan pertama kita di suguhkan dengan opsi untuk developer atau tidak,kita klick next saja.
-!['Gambar Install Composer'](images/../../../static/images/composerinstall.png)
+!['Gambar Install Composer'](https://raw.githubusercontent.com/Ghonge1337/rysnanto/main/static/images/composerinstall.png)
 Setelah itu otomatis akan ke include php yang berada di folder (C:\xampp\php\php.exe) , jika belum otomatis terinclude teman teman bisa klick browse dan masuk ke folder diatas. atau ingin pakai php sendiri selain dari xampp juga boleh..., setelah itu klick next saja dan tunggu proses install selesai.
-![](https://raw.githubusercontent.com/Ghonge1337/rysnanto/main/static/images/composerinstall2.png)
+!['Gambar Install Composer'](https://raw.githubusercontent.com/Ghonge1337/rysnanto/main/static/images/composerinstall2.png)
 
 Jika sudah maka kita tinggall mengetikan command di bawah untuk membuat sebuah project laravel
 ```php
