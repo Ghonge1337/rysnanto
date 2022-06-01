@@ -5,7 +5,7 @@
     <div class="summary-date">{{ dateFormat "Jan 2, 2006" .Date }}</div>
   {{ end }}
   {{ if .Params.image }}
-      <img src="{{ .Params.image | relURL }}" />
+      <img style="width: 100%; border-radius:10px;" src="{{ .Params.image | relURL }}" />
   {{ end }}
   <h2 class="summary-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   <p class="summary-description">{{ .Params.description }}</p>
