@@ -37,7 +37,7 @@
 
 <body class='page{{ delimit $themeStyle " " }} {{ block "body_classes" . }}{{ end }}'>
   {{ partial "menu-main-mobile.html" . }}
-  <div id="wrapper" class="wrapper">
+  <div id="wrapper" class="wrapper" style="border-radius:20px;">
     {{ partial "header.html" . }}
     {{ block "main" . }}
     {{ end }}
