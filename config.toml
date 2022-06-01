@@ -16,7 +16,7 @@ paginate = 3
 
 [params]
   google_analytics_id = ""
-  twitter_handle = "@zerostaticio"
+  twitter_handle = "@Rysnanto1"
 
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
@@ -25,4 +25,4 @@ paginate = 3
   addFrame = true
   addDot = true
 
-  highlightColor = '#7b16ff'
+  highlightColor = '#189AB4'
