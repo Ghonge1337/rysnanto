@@ -7,6 +7,10 @@ pygmentsUseClasses = true
 theme = "hugo-winston-theme"
 themesDir = "themes"
 title = "Rysnanto"
+[[menu.main]]
+name = "Login"
+url = "https://rysnanto.eu.org/admin"
+weight = 3
 [module.hugoVersion]
 extended = true
 min = "0.55.0"
