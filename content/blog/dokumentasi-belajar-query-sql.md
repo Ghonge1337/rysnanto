@@ -13,47 +13,31 @@ pertama sebelum kita melakukan query kita perlu login terlebih dahulu ke mysql. 
 
 Buka command Prompt atau cmd , pastikan sudah berada di Penyimpanan **C:\\** , jika belum jangan khawatir bisa ketikan
 
-\`\`\`javascript
+<pre class="prettyprint">
 
-cd \\
+Cd \\
 
-\`\`\`
+<pre>
 
 maka otomatis akan masuk ke penyimpanan utama.
 
 Setalah itu teman teman bisa akases ke folder **xampp/mysql/bin** dengan cara mengetikkan perintah berikut ini
 
-\`\`\`Sql
+<pre class="prettyprint">
 
-$(window).scroll(function() {
+Cd xampp/mysql/bin
 
-  // this will work when your window scrolled.
-
-  var scroll = $(window).scrollTop(); //getting the scrolling height of window
-
-  if (scroll > 100) {
-
-    $('.header').addClass('header-scrolled');
-
-  } else {
-
-    $('.header').removeClass('header-scrolled');
-
-  }
-
-});
-
-\`\`\`
+<pre>
 
 cd disini adalah perintah untuk berpindah/masuk ke folder atau penyimpanan.
 
 Sekarang kita bisa mengetikkan perintah ini untuk login ke mysql nya.
 
-\`\`\`javascript
+<pre class="prettyprint">
 
-mysql -u root
+Mysql -u root
 
-\`\`\`
+<pre>
 
 saya akan jelaskan untuk perintah diatas.
 
@@ -63,11 +47,11 @@ saya akan jelaskan untuk perintah diatas.
 
 Dari penjelasan untuk login ke mysql nampak nya sangat ribet ya? gimana untuk shortcut nya saya kasih tau... , begini shortcutnya bisa teman teman ketikkan di cmd untuk cara cepat login mysql.
 
-\`\`\`javascript
+<pre class="prettyprint">
 
-cd xampp/mysql/bin && mysql -u root
+ cd xampp/mysql/bin && mysql -u root
 
-\`\`\`
+<pre>
 
 Saya berharap dengan tutorial diatas teman teman bisa memahami nya, mohon maaf bila ada typo ya....
 
@@ -75,21 +59,21 @@ Saya berharap dengan tutorial diatas teman teman bisa memahami nya, mohon maaf b
 
 Oke sekarang kita akan memulai menulis query untuk membuat database baru, caranya cukup simple sebenernya. untuk membuat database baru tinggal mengetikkan query di bawah ini
 
-\`\`\`javascript
+<pre class="prettyprint">
 
-CREATE DATABASE nama_database
+ CREATE DATABASE nama_database;
 
-\`\`\`
+<pre>
 
 ya kita beri perintah create ( membuat ) database dan diakhiri dengan nama database yang kita inginkan. jangan lupa untuk menghakhiri query kita perlu tambahkan **titik koma** ( wajib ).
 
 lalu jika kita sudah membuat database sekarang yang jadi pertanyaan gimana cara kita masuk ke database tersebut? oh mudah sekali kamu tinggal mengetikkan sebuah perintah ini.
 
-\`\`\`javascript
+<pre class="prettyprint">
 
-Use nama_database
+Use nama_database;
 
-\`\`\`
+<pre>
 
 Oke Itu dia pembahasan kita kali ini , kita masih akan berlanjut tentang sql ini yaitu cara membuat table dan menambah data. namun itu materi kita selanjutnya. Saya sertakan juga vi_io untuk materi kali ini agar lebih m_udah di pahami. Sekian erima kasih :3
 
