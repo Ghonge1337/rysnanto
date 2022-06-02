@@ -1,7 +1,6 @@
 +++
 date = 2022-06-01T17:00:00Z
 description = "Hari hari di SMK jam kos teruss , cuman jam pertama ada pelajaran"
-draft = true
 image = "/uploads/img_20220602_102654-2.jpg"
 title = "Jam Kosong lagi nih bos..."
 
