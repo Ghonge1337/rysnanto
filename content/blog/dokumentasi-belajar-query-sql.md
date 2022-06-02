@@ -49,8 +49,8 @@ ya kita beri perintah create ( membuat ) database dan diakhiri dengan nama datab
 
 lalu jika kita sudah membuat database sekarang yang jadi pertanyaan gimana cara kita masuk ke database tersebut? oh mudah sekali kamu tinggal mengetikkan sebuah perintah ini.
 
-    use nama_database
+<pre class="hljs" style="display: block; overflow-x: auto; padding: 0.5em; background: rgb(240, 240, 240); color: rgb(68, 68, 68);">use nam<span class="hljs-built_in" style="color: rgb(57, 115, 0);">a_database</span></pre>
 
-Oke itu dia pembahasan kita kali ini , kita masih akan berlanjut tentang sql ini yaitu cara membuat table dan menambah data. namun itu materi kita selanjutnya. Saya sertakan juga vidio untuk materi kali ini agar lebih mudah di pahami. Sekian erima kasih :3
+Oke Itu dia pembahasan kita kali ini , kita masih akan berlanjut tentang sql ini yaitu cara membuat table dan menambah data. namun itu materi kita selanjutnya. Saya sertakan juga vi_io untuk materi kali ini agar lebih m_udah di pahami. Sekian erima kasih :3
 
 {{< youtube btkYzsu35Pk >}}
