@@ -53,4 +53,4 @@ lalu jika kita sudah membuat database sekarang yang jadi pertanyaan gimana cara 
 
     use nama_database
 
-Oke itu dia pembahasan kita kali ini , kita masih akan berlanjut tentang sql ini yaitu cara membuat table dan menambah data. namun itu materi kita selanjutnya. Saya sertakan juga vidio untuk materi kali ini agar lebih mudah di pahami. Sekian terima kasih :3
+Oke itu dia pembahasan kita kali ini , kita masih akan berlanjut tentang sql ini yaitu cara membuat table dan menambah data. namun itu materi kita selanjutnya. Saya sertakan juga vidio untuk materi kali ini agar lebih mudah di pahami. Sekian erima kasih :3
