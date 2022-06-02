@@ -23,9 +23,25 @@ maka otomatis akan masuk ke penyimpanan utama.
 
 Setalah itu teman teman bisa akases ke folder **xampp/mysql/bin** dengan cara mengetikkan perintah berikut ini
 
-\`\`\`javascript
+\`\`\`Sql
 
-cd xampp/mysql/bin
+$(window).scroll(function() {
+
+  // this will work when your window scrolled.
+
+  var scroll = $(window).scrollTop(); //getting the scrolling height of window
+
+  if (scroll > 100) {
+
+    $('.header').addClass('header-scrolled');
+
+  } else {
+
+    $('.header').removeClass('header-scrolled');
+
+  }
+
+});
 
 \`\`\`
 
