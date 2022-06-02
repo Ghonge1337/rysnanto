@@ -7,8 +7,6 @@ title = "Dokumentasi Belajar query sql  #1"
 +++
 Disclaimer : Mohon maaf bila ada penulisan atau query yang salah karena saya juga baru belajar menggunakan query sql, sebelumnya saya menggunakan phpmyadmin nya xampp untuk membuat sebuah database.
 
-{{< youtube btkYzsu35Pk >}}
-
 ## Login Ke Mysql
 
 pertama sebelum kita melakukan query kita perlu login terlebih dahulu ke mysql. Teman-teman bisa nyalakan mysql nya dengan cara buka XAMPP lalu tekan start pada mysql dan apache nya kalau perlu.
@@ -54,3 +52,5 @@ lalu jika kita sudah membuat database sekarang yang jadi pertanyaan gimana cara 
     use nama_database
 
 Oke itu dia pembahasan kita kali ini , kita masih akan berlanjut tentang sql ini yaitu cara membuat table dan menambah data. namun itu materi kita selanjutnya. Saya sertakan juga vidio untuk materi kali ini agar lebih mudah di pahami. Sekian erima kasih :3
+
+{{< youtube btkYzsu35Pk >}}
