@@ -35,7 +35,7 @@ saya akan jelaskan untuk perintah diatas.
 
 Dari penjelasan untuk login ke mysql nampak nya sangat ribet ya? gimana untuk shortcut nya saya kasih tau... , begini shortcutnya bisa teman teman ketikkan di cmd untuk cara cepat login mysql.
 
->  **cd xampp/mysql/bin && mysql -u root**
+> **cd xampp/mysql/bin && mysql -u root**
 
 Saya berharap dengan tutorial diatas teman teman bisa memahami nya, mohon maaf bila ada typo ya....
 
@@ -43,7 +43,7 @@ Saya berharap dengan tutorial diatas teman teman bisa memahami nya, mohon maaf b
 
 Oke sekarang kita akan memulai menulis query untuk membuat database baru, caranya cukup simple sebenernya. untuk membuat database baru tinggal mengetikkan query di bawah ini
 
->  **CREATE DATABASE nama_database;**
+> **CREATE DATABASE nama_database;**
 
 ya kita beri perintah create ( membuat ) database dan diakhiri dengan nama database yang kita inginkan. jangan lupa untuk menghakhiri query kita perlu tambahkan **titik koma** ( wajib ).
 
@@ -51,6 +51,6 @@ lalu jika kita sudah membuat database sekarang yang jadi pertanyaan gimana cara 
 
 > **Use nama_database;**
 
-Oke Itu dia pembahasan kita kali ini , kita masih akan berlanjut tentang sql ini yaitu cara membuat table dan menambah data. namun itu materi kita selanjutnya. Saya sertakan juga vi_io untuk materi kali ini agar lebih m_udah di pahami. Sekian erima kasih :3
+Oke Itu dia pembahasan kita kali ini , kita masih akan berlanjut tentang sql ini yaitu cara membuat table dan menambah data. namun itu materi kita selanjutnya. Saya sertakan juga vidio untuk materi kali ini agar lebih mudah di pahami. Sekian Terima kasih :3
 
 {{< youtube btkYzsu35Pk >}}
