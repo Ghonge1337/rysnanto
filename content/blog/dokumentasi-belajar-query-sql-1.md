@@ -60,7 +60,7 @@ ya kita beri perintah create ( membuat ) database dan diakhiri dengan nama datab
 lalu jika kita sudah membuat database sekarang yang jadi pertanyaan gimana cara kita masuk ke database tersebut? oh mudah sekali kamu tinggal mengetikkan sebuah perintah ini.
 
 ```sql
-Use nama_database;
+USE nama_database;
 ```
 
 Oke Itu dia pembahasan kita kali ini , kita masih akan berlanjut tentang sql ini yaitu cara membuat table dan menambah data. namun itu materi kita selanjutnya. Saya sertakan juga vidio untuk materi kali ini agar lebih mudah di pahami. Sekian Terima kasih :3
