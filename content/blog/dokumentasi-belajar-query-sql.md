@@ -1,7 +1,6 @@
 +++
 date = 2022-06-01T17:00:00Z
 description = "Belajar menggunakan query sql seperti membuat database menambah dan lain sebagainya di comman prompt"
-draft = true
 image = ""
 title = "[ Dokumentasi ] Belajar query sql "
 
