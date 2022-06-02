@@ -5,7 +5,7 @@ image = "/uploads/screenshot_20220602-164556_peluncur_pixel.png"
 title = "Dokumentasi Belajar query sql  #1"
 
 +++
-Disclaimer : Mohon maaf bila ada penulisan atau query yang salah karena saya juga baru belajar menggunakan query sql, sebelumnya saya menggunakan phpmyadmin nya xampp untuk membuat sebuah database.
+Disclaimer : Ini hanya dokumentasi belajar Mohon maaf bila ada penulisan atau query yang salah karena saya juga baru belajar menggunakan query sql, sebelumnya saya menggunakan phpmyadmin nya xampp untuk membuat sebuah database.
 
 ## Login Ke Mysql
 
