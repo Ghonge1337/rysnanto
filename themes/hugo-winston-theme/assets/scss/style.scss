@@ -56,3 +56,13 @@ body {
   margin: 0 auto;
   
 }
+
+
+.typed {
+  border-bottom: 2px solid #ffffff;
+}
+
+.typed-cursor{
+   opacity: 1;
+   animation: blink 0.7s infinite;
+}
