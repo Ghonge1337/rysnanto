@@ -6,29 +6,29 @@ image = ""
 title = "[ Dokumentasi ] Belajar query sql "
 
 +++
-Disclaimer : Mohon maaf bila ada penulisan atau query yang salah karena saya juga baru belajar menggunakan query sql, sebelumnya sama menggunakan phpmyadmin nya xampp untuk membuat sebuah database.
+Disclaimer : Mohon maaf bila ada penulisan atau query yang salah karena saya juga baru belajar menggunakan query sql, sebelumnya saya menggunakan phpmyadmin nya xampp untuk membuat sebuah database.
 
 ## Login Ke Mysql
 
 pertama sebelum kita melakukan query kita perlu login terlebih dahulu ke mysql. Teman-teman bisa nyalakan mysql nya dengan cara buka XAMPP lalu tekan start pada mysql dan apache nya kalau perlu.
 
-Buka command Prompt atau cmd , pastikan sudah berada di Penyimpanan **C:\\** , jika belum jangan khawatir bisa ketikan 
+Buka command Prompt atau cmd , pastikan sudah berada di Penyimpanan **C:\\** , jika belum jangan khawatir bisa ketikan
 
     cd \
 
 maka otomatis akan masuk ke penyimpanan utama.
 
-Setalah itu teman teman bisa akases ke folder **xampp/mysql/bin** dengan cara mengetikkan perintah berikut ini 
+Setalah itu teman teman bisa akases ke folder **xampp/mysql/bin** dengan cara mengetikkan perintah berikut ini
 
     cd xampp\mysql\bin
 
-cd disini adalah perintah untuk berpindah/masuk ke folder atau penyimpanan. 
+cd disini adalah perintah untuk berpindah/masuk ke folder atau penyimpanan.
 
-Sekarang kita bisa mengetikkan perintah ini untuk login ke mysql nya 
+Sekarang kita bisa mengetikkan perintah ini untuk login ke mysql nya
 
     mysql -u root
 
- saya akan jelaskan untuk perintah diatas. 
+saya akan jelaskan untuk perintah diatas.
 
 **Keterangan :**
 
@@ -37,3 +37,11 @@ Sekarang kita bisa mengetikkan perintah ini untuk login ke mysql nya
 Dari penjelasan untuk login ke mysql nampak nya sangat ribet ya? gimana untuk shortcut nya saya kasih tau... , begini shortcutnya bisa teman teman ketikkan di cmd untuk cara cepat login mysql.
 
     cd xampp\mysql\bin && mysql -u root
+
+Saya berharap dengan tutorial diatas teman teman bisa memahami nya, mohon maaf bila ada typo ya....
+
+## Membuat Database
+
+Oke sekarang kita akan memulai menulis query untuk membuat database baru, caranya cukup simple sebenernya. untuk membuat database baru tinggal mengetikkan query di bawah ini
+
+    create database nama_database;
