@@ -17,7 +17,7 @@ Buka command Prompt atau cmd , pastikan sudah berada di Penyimpanan **C:\\** , j
 
 Cd \\
 
-<pre>
+</pre>
 
 maka otomatis akan masuk ke penyimpanan utama.
 
@@ -27,7 +27,7 @@ Setalah itu teman teman bisa akases ke folder **xampp/mysql/bin** dengan cara me
 
 Cd xampp/mysql/bin
 
-<pre>
+</pre>
 
 cd disini adalah perintah untuk berpindah/masuk ke folder atau penyimpanan.
 
@@ -37,7 +37,7 @@ Sekarang kita bisa mengetikkan perintah ini untuk login ke mysql nya.
 
 Mysql -u root
 
-<pre>
+</pre>
 
 saya akan jelaskan untuk perintah diatas.
 
@@ -51,7 +51,7 @@ Dari penjelasan untuk login ke mysql nampak nya sangat ribet ya? gimana untuk sh
 
  cd xampp/mysql/bin && mysql -u root
 
-<pre>
+</pre>
 
 Saya berharap dengan tutorial diatas teman teman bisa memahami nya, mohon maaf bila ada typo ya....
 
@@ -63,7 +63,7 @@ Oke sekarang kita akan memulai menulis query untuk membuat database baru, carany
 
  CREATE DATABASE nama_database;
 
-<pre>
+</pre>
 
 ya kita beri perintah create ( membuat ) database dan diakhiri dengan nama database yang kita inginkan. jangan lupa untuk menghakhiri query kita perlu tambahkan **titik koma** ( wajib ).
 
@@ -73,7 +73,7 @@ lalu jika kita sudah membuat database sekarang yang jadi pertanyaan gimana cara 
 
 Use nama_database;
 
-<pre>
+</pre>
 
 Oke Itu dia pembahasan kita kali ini , kita masih akan berlanjut tentang sql ini yaitu cara membuat table dan menambah data. namun itu materi kita selanjutnya. Saya sertakan juga vi_io untuk materi kali ini agar lebih m_udah di pahami. Sekian erima kasih :3
 
