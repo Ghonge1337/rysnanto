@@ -6,3 +6,4 @@ image = ""
 title = "Dokumentasi Belajar query sql #2"
 
 +++
+**Disclaimer** : Kita disini belajar bersama tentang query sql , mohon untuk di koreksi bila mana ada kesalahan penulisan di kolom komentar. Pada materi kali ini juga di sediakan Vidio agar mudah di pahami dan di mengerti.
