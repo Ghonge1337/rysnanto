@@ -31,6 +31,10 @@
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet"> 
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.9"></script>
+<Style>
+scrinContainer{position:fixed;width:100%;height:5px;background:#fafafa;top:0;left:0;z-index:999}
+.scrinLight{width:0%;height:5px;background:#009ee0}
+</Style>
 </head>
 
 {{ $themeStyle := slice "" }}
@@ -67,6 +71,12 @@ new Typed('#typed',{
   delaySpeed : 100,
   loop : true
 });
+</script>
+<div class="scrinContainer">
+  <div class="scrinLight" id="scrinInput"></div>
+</div>
+<script>
+window.addEventListener("scroll",scrinFunction);function scrinFunction(){var winScroll=document.body.scrollTop||document.documentElement.scrollTop;var height=document.documentElement.scrollHeight-document.documentElement.clientHeight;var scrolled=(winScroll/height)*100;document.getElementById("scrinInput").style.width=scrolled+"%"}
 </script>
 </body>
 </html>
