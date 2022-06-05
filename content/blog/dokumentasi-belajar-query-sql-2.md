@@ -10,4 +10,4 @@ title = "Dokumentasi Belajar query sql #2"
 
 ## Membuat table
 
-Setelah kita berhasil untuk login ke dalam mysql dan membuat sebuah database. Sekarang kita akan membuat sebuah table di dalam database yang kita buat.
+Setelah kita berhasil untuk login ke dalam mysql dan membuat sebuah database. Sekarang kita akan membuat sebuah table di dalam database yang kita buat. Query yang di gunakan yaitu 
