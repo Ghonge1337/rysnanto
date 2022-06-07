@@ -8,6 +8,10 @@ theme = "hugo-winston-theme"
 themesDir = "themes"
 title = "Rysnanto"
 [[menu.main]]
+name = "Home"
+url = "https://rysnanto.eu.org"
+weight = 4
+[[menu.main]]
 name = "Login"
 url = "https://rysnanto.eu.org/admin"
 weight = 3
