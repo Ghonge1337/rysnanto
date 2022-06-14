@@ -2,7 +2,7 @@
 title: Do'nt judge a person by its cover
 
 ---
-Welcome Manusia! selamat datang di website rysnanto.eu.org, di website ini dapat menemukan keluh kesah saya, di platform inilah saya akan tulis semua cuitan saya. Kenapa Gak di Twitter? karena di twitter itu orang nya jahat guys wkwk ( canda ).di sini juga kamu dapat menemukan berbagai tutorial menarik lainnya seperti Kumpulan APK mod , Tentang Mebuat Website dan lain-
+**Rysnanto** - Merupakan sebuah website personal yang semata mata untuk dokumentasi progres belajar saya. Disini kamu juga dapat menemukan sebuah cuitan dari kehidupan saya sehari-hari. Terimakasih telah berkunjung di website ini dan enjoyyy
 
 ## **Certificate**
 
