@@ -19,4 +19,10 @@ Teman - Teman download terlebih dahulu aplikasi Termux ini di playstore atau pun
 
 Setelah berhasil meng-install aplikasi Termux silahkan di buka dan ketikkan perintah di bawah ini untuk menginstall github CLI nya.
 
-    kg install git
+Hh
+
+    
+    
+    
+    
+    
