@@ -19,10 +19,31 @@ Teman - Teman download terlebih dahulu aplikasi Termux ini di playstore atau pun
 
 Setelah berhasil meng-install aplikasi Termux silahkan di buka dan ketikkan perintah di bawah ini untuk menginstall github CLI nya.
 
-Hh
+    pkg install git
 
-    
-    
-    
-    
-    
+Aku harap dlsetelah menuliskan perintah tersebut maka github CLI sudah terinstall, cara cek nya tinggal kita ketikan
+
+    git --version
+
+### Masalah Error
+
+Namun apabila teman teman menemui kendala seperti saya ini , berikut gambar error nya :
+
+![](/uploads/screenshot_20220620-155048_peluncur_pixel.jpg)
+
+Jangan panik terlebih dahulu , setelah saya cari cari penyebab nya akhir nya saya menemukan jawaban nya di stackoverflow [https://stackoverflow.com/questions/67647518/termux-repository-is-under-maintenance-or-down?rq=1](https://stackoverflow.com/questions/67647518/termux-repository-is-under-maintenance-or-down?rq=1 "https://stackoverflow.com/questions/67647518/termux-repository-is-under-maintenance-or-down?rq=1")
+
+Teman-Teman bisa ketikkan perintah perintah di bawah ini untuk mengatasi error tersebut.
+
+    pkg remove game-repo
+    pkg remove science-repo
+
+Jika ada peringatan (Y/N) ketik aja Y saja hingga akhir proses, jika sudah bagian akhir kita ketikkan lagi
+
+    pkg update
+
+Maka akan ada proses update atau apa saya kurang paham yang sedang berjalan , jika ada peringatan lagi (Y/N) ketik saja Y hingga akhir proses berakhir. Dan ya semoga berhasil, sekarang tinggal kita ulangi lagi perintah untuk menginstall github CLI nya.
+
+    pkg install git
+
+Nah itu dia bagaimana cara install Github CLI di Termux android , semoga berhasil bila mana ada kesulitan atau kendala sebaiknya tanya di komentar ataupun bisa mencari masalahnya di stackoverflow. Sekian terimakasih _^
