@@ -16,3 +16,4 @@ fields:
   label: image
 pages:
 - content/blog/dokumentasi-belajar-query-sql-2.md
+- content/blog/install-github-cli-di-termux.md
