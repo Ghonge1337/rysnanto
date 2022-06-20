@@ -50,4 +50,4 @@ Nah itu dia bagaimana cara install Github CLI di Termux android , semoga berhasi
 
 ### **Vidio Selama Saya Menemukan Error**
 
-{{< YouTube HpJqoPsZE94 >}}
+{{< outube HpJqoPsZE94 >}}
