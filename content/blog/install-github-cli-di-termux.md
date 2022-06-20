@@ -47,7 +47,8 @@ Teman-Teman bisa ketikkan perintah perintah di bawah ini untuk mengatasi error t
 
 Jika ada peringatan (Y/N) ketik aja Y saja hingga akhir proses, jika sudah bagian akhir kita ketikkan lagi
 
- ```pkg update
+ ```
+   pkg update
  ```
 
 Maka akan ada proses update atau apa saya kurang paham yang sedang berjalan , jika ada peringatan lagi (Y/N) ketik saja Y hingga akhir proses berakhir. Dan ya semoga berhasil, sekarang tinggal kita ulangi lagi perintah untuk menginstall github CLI nya.
