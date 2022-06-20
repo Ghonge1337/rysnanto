@@ -47,3 +47,5 @@ Maka akan ada proses update atau apa saya kurang paham yang sedang berjalan , ji
     pkg install git
 
 Nah itu dia bagaimana cara install Github CLI di Termux android , semoga berhasil bila mana ada kesulitan atau kendala sebaiknya tanya di komentar ataupun bisa mencari masalahnya di stackoverflow. Sekian terimakasih _^
+
+### **Vidio Selama Saya Menemukan Error**
