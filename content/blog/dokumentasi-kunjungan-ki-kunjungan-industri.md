@@ -2,7 +2,7 @@
 date = 2022-06-22T17:00:00Z
 description = "Perjalanan saya pada saat KI ( Kunjungan Industri ) Ke Malang Jawa Timur"
 draft = true
-image = ""
+image = "/uploads/4b33995e550f4b51b416f61583470812.jpg"
 title = "Perjalanan Kunjungan Industri Di Malang"
 
 +++
