@@ -49,3 +49,9 @@ Setelah selesai makan dan sholat, saya dan rombongan prodi komputer menuju ke ja
 ### **Menuju Ke Tempat Oleh-Oleh Tadi Siang**
 
 Setelah puas bermain di Jatim Park ,kini kita akan kembali lagi menuju ke tempat oleh-oleh yang kita kunjungi waktu makan siang ( Lupa namanya ), disini saya teman teman makan dan sholat persis kejadian siang tadi.
+
+### **Menuju Masjid Cengho**
+
+Inilah akhir dari perjalan kita setelah 1 hari kita puas berkeliling kota malang. Disini kita melakukan sholat isya' , saya kagum dengan keindahan masjid satu ini. Karena arsitekturnya seperti bangunan ibadah kelenteng. Setelah sholat saya bergegas menuju ke bis dan kita semua pulang kembali ke Jawa tengah Rembang.
+
+Itulah tadi perjalanan saya ketika kunjungan industri Kemalang ,kekurangan nya yaitu saya kurang memotret lingkungan disana, jadinya pada artikel ini jarang ada foto ketika saya berada disana. Terimakasih kamu orang gabut yang sudah membaca ini hingga akhir 
