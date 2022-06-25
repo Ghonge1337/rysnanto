@@ -20,13 +20,13 @@ Di dalam bis suasana ramai banyak yang nyanyi ngobrol dan lain sebagainya, wali 
 
 ### **Tiba di Malang**
 
-Sekitar pukul 03:00 pagi , kita sudah sampai di masjid Tiban untuk melaksanakan kewajiban sholat subuh , saya turun waktu itu dan segera mengambil baju identitas sekolah untuk segera bergegas mandi. Kala itu saya berjalan menuju ke masjid dan berkeliling masjid tersebut bersama beberapa teman saya. Setelah selesai mandi saya dan rekan saya segera mengambil wudhu dan melaksanakan sholat subuh, namun saat mencari tempat wudhu saya dan teman-teman sempat bingung untuk mencari tempatnya.
+![](/uploads/img-20220625-wa0086.jpg)Sekitar pukul 03:00 pagi , kita sudah sampai di masjid Tiban untuk melaksanakan kewajiban sholat subuh , saya turun waktu itu dan segera mengambil baju identitas sekolah untuk segera bergegas mandi. Kala itu saya berjalan menuju ke masjid dan berkeliling masjid tersebut bersama beberapa teman saya. Setelah selesai mandi saya dan rekan saya segera mengambil wudhu dan melaksanakan sholat subuh, namun saat mencari tempat wudhu saya dan teman-teman sempat bingung untuk mencari tempatnya.
 
 Setelah selesai mandi dan sholat subuh sekarang untuk waktunya makan di kantin yang disediakan oleh pihak pariwisata, konsep dari pemberian makanan adalah prasmanan jadi kita bisa mengambil lauk dan nasi sepuasnya.
 
 ### **kunjungan Industri**
 
-Mungkin sekitar 07:30 kita melanjutkan perjalanan menuju ke tempat Ki yaitu di Universitas Negri Malang (UNM). Sebelum masuk kita harus mendatangani absen dan mendapatkan satu kotak bingkisan makanan jajanan ringan untuk mengikuti acara, setelah saya mendengan rektor dari universitas tersebut berbicara dapat saya simpulkan bahwa :
+![](/uploads/img-20220625-wa0085.jpg)Mungkin sekitar 07:30 kita melanjutkan perjalanan menuju ke tempat Ki yaitu di Universitas Negri Malang (UNM). Sebelum masuk kita harus mendatangani absen dan mendapatkan satu kotak bingkisan makanan jajanan ringan untuk mengikuti acara, setelah saya mendengan rektor dari universitas tersebut berbicara dapat saya simpulkan bahwa :
 
 1. Segala bidang apapun memerlukan IT , artinya tidak ada satupun perkerjaan di perusahaan atau dimanapun itu pasti terdapat suatu tim yang ahli IT.
 
@@ -34,7 +34,7 @@ Setelah beberapa menit akhirnya kami foto barengan dengan rektor universitas ter
 
 Sebelum kembali ke bus , bapak ibu guru dan seluruh siswa juga melakukan foto bersama di depan halaman universitas negri Malang untuk kebutuhan dokumentasi.
 
-**Menuju Tempat Oleh-Oleh**
+### **Menuju Tempat Oleh-Oleh**
 
 Setelah selesai berkunjung ke universitas untuk kegiatan inti KI ( kunjungan industri) saat nya kita menuju tempat refreshing, yaitu di apaya lupa kwkw pokoknya tempat oleh-oleh terbesar di Malang. Saat itu juga saya dan teman-teman saya turun dan bergegas menuju ke mushola terdekat untuk melakukan sholat nduhur. Sempat melihat kamar mandi namun saat kita masuk di tarif harga mencapai 4.000 Rp , waw bukan harga yang murah bukan? Namun namanya juga udah kebelet saya terobos aja lah gapapa mbayar mahal dari pada ngompol.
 
