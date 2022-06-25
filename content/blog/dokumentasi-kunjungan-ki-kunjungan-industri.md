@@ -33,3 +33,9 @@ Mungkin sekitar 07:30 kita melanjutkan perjalanan menuju ke tempat Ki yaitu di U
 Setelah beberapa menit akhirnya kami foto barengan dengan rektor universitas tersebut dan melanjutkan untuk melihat isi lab dari beberapa prodi misal saja lab multimedia.ga ada yang berbeda pada lab-lab lain ya isinya cuman komputer.
 
 Sebelum kembali ke bus , bapak ibu guru dan seluruh siswa juga melakukan foto bersama di depan halaman universitas negri Malang untuk kebutuhan dokumentasi.
+
+**Menuju Tempat Oleh-Oleh**
+
+Setelah selesai berkunjung ke universitas untuk kegiatan inti KI ( kunjungan industri) saat nya kita menuju tempat refreshing, yaitu di apaya lupa kwkw pokoknya tempat oleh-oleh terbesar di Malang. Saat itu juga saya dan teman-teman saya turun dan bergegas menuju ke mushola terdekat untuk melakukan sholat nduhur. Sempat melihat kamar mandi namun saat kita masuk di tarif harga mencapai 4.000 Rp , waw bukan harga yang murah bukan? Namun namanya juga udah kebelet saya terobos aja lah gapapa mbayar mahal dari pada ngompol.
+
+Setelah itu saya baru masuk ke toko yang menjual berbagai oleh-oleh , pada saat itu saya keliling-keliling dan akhirnya memutuskan untuk membeli makanan Kerupuk apel dan lain-lain ( Kenbanyakan nanti tak sebutin satu persatu). Setelah sudah lama membeli ini itu akhirnya saya memutuskan untuk makan siang yang di berikan pemandu wisata. Konsep nya masih sama yaitu prasmanan.
