@@ -47,3 +47,7 @@ Setelah itu saya baru masuk ke toko yang menjual berbagai oleh-oleh , pada saat 
 Setelah selesai makan dan sholat, saya dan rombongan prodi komputer menuju ke jaimpark , sedangkan untuk prodi mesin menuju ke museum angkot. Disini saya dan teman-teman naik beberapa wahana, dan saya naik salah satu wahana tersebut ( Extream) namun saya sudah ingin mual itu jadinya saya gak ikut naik wahana Extream lainnya. Saya dan teman saya ( Fahmy ) hanya berdua karena kita terpencar oleh rombongan teman-teman saya, kita berdua menaiki beberapa wahana seperti roll Costner , Bombom car , Bioskop 3D dan lain sebagainya. Saya dan Fahmy ingin banget masuk ke rumah kaca namun waktu sudah menunjukkan 5 sore jadi wahana-wahana sudah banyak yang tutup. Disini saya tidak mempunyai foto sama sekali di karenakan hp saya ketinggalan di tas teman saya.
 
 ### **Menuju Ke Tempat Oleh-Oleh Tadi Siang**
+
+Setelah puas bermain di Jatim Park ,kini kita akan kembali lagi menuju ke tempat oleh-oleh yang kita kunjungi waktu makan siang ( Lupa namanya ), disini saya teman teman makan dan sholat persis kejadian siang tadi.
+
+### **Menu Masjid Chengho**
