@@ -3,7 +3,7 @@ date = 2022-06-22T17:00:00Z
 description = "Perjalanan saya pada saat KI ( Kunjungan Industri ) Ke Malang Jawa Timur"
 draft = true
 image = ""
-title = "Dokumentasi Kunjungan Industri Di Malang"
+title = "Perjalanan Kunjungan Industri Di Malang"
 
 +++
 [Rembang]() . Smk Umar Fatah Rembang Mengadakan Kegiatan KI atau kepanjangan dari Kunjungan Industri. KI ini dilaksanakan pada 22 juni dan akan menuju ke malang tepatnya di Universitas Negeri Malang.
@@ -50,4 +50,4 @@ Setelah selesai makan dan sholat, saya dan rombongan prodi komputer menuju ke ja
 
 Setelah puas bermain di Jatim Park ,kini kita akan kembali lagi menuju ke tempat oleh-oleh yang kita kunjungi waktu makan siang ( Lupa namanya ), disini saya teman teman makan dan sholat persis kejadian siang tadi.
 
-### **Menuju Masjid Chengho**
+> **Menuju Masjid Chengho**
