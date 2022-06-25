@@ -50,4 +50,4 @@ Setelah selesai makan dan sholat, saya dan rombongan prodi komputer menuju ke ja
 
 Setelah puas bermain di Jatim Park ,kini kita akan kembali lagi menuju ke tempat oleh-oleh yang kita kunjungi waktu makan siang ( Lupa namanya ), disini saya teman teman makan dan sholat persis kejadian siang tadi.
 
-### **Menu Masjid Chengho**
+### **Menuju Masjid Chengho**
