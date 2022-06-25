@@ -32,6 +32,8 @@ Setelah selesai mandi dan sholat subuh sekarang untuk waktunya makan di kantin y
 
 Setelah beberapa menit akhirnya kami foto barengan dengan rektor universitas tersebut dan melanjutkan untuk melihat isi lab dari beberapa prodi misal saja lab multimedia.ga ada yang berbeda pada lab-lab lain ya isinya cuman komputer.
 
+![](/uploads/img-20220625-wa0087.jpg)
+
 Sebelum kembali ke bus , bapak ibu guru dan seluruh siswa juga melakukan foto bersama di depan halaman universitas negri Malang untuk kebutuhan dokumentasi.
 
 ### **Menuju Tempat Oleh-Oleh**
@@ -39,3 +41,9 @@ Sebelum kembali ke bus , bapak ibu guru dan seluruh siswa juga melakukan foto be
 Setelah selesai berkunjung ke universitas untuk kegiatan inti KI ( kunjungan industri) saat nya kita menuju tempat refreshing, yaitu di apaya lupa kwkw pokoknya tempat oleh-oleh terbesar di Malang. Saat itu juga saya dan teman-teman saya turun dan bergegas menuju ke mushola terdekat untuk melakukan sholat nduhur. Sempat melihat kamar mandi namun saat kita masuk di tarif harga mencapai 4.000 Rp , waw bukan harga yang murah bukan? Namun namanya juga udah kebelet saya terobos aja lah gapapa mbayar mahal dari pada ngompol.
 
 Setelah itu saya baru masuk ke toko yang menjual berbagai oleh-oleh , pada saat itu saya keliling-keliling dan akhirnya memutuskan untuk membeli makanan Kerupuk apel dan lain-lain ( Kenbanyakan nanti tak sebutin satu persatu). Setelah sudah lama membeli ini itu akhirnya saya memutuskan untuk makan siang yang di berikan pemandu wisata. Konsep nya masih sama yaitu prasmanan.
+
+### **Menuju Ke Jatim Park 1**
+
+Setelah selesai makan dan sholat, saya dan rombongan prodi komputer menuju ke jaimpark , sedangkan untuk prodi mesin menuju ke museum angkot. Disini saya dan teman-teman naik beberapa wahana, dan saya naik salah satu wahana tersebut ( Extream) namun saya sudah ingin mual itu jadinya saya gak ikut naik wahana Extream lainnya. Saya dan teman saya ( Fahmy ) hanya berdua karena kita terpencar oleh rombongan teman-teman saya, kita berdua menaiki beberapa wahana seperti roll Costner , Bombom car , Bioskop 3D dan lain sebagainya. Saya dan Fahmy ingin banget masuk ke rumah kaca namun waktu sudah menunjukkan 5 sore jadi wahana-wahana sudah banyak yang tutup. Disini saya tidak mempunyai foto sama sekali di karenakan hp saya ketinggalan di tas teman saya.
+
+### **Menuju Ke Tempat Oleh-Oleh Tadi Siang**
