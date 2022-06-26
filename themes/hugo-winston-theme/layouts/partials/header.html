@@ -5,7 +5,7 @@
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
             <li class="menu-item-{{ .Name | lower }}{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}">
-                <a href="{{ .URL | relLangURL }}"><span id="typed" class="typed"></span></a>
+                <a href="{{ .URL | relLangURL }}"></a>
             </li>
         {{end}}
     </ul>
