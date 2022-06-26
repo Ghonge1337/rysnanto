@@ -52,4 +52,4 @@ Bagaimana saat kita lupa atau kurang nih colom nya tapi sudah terlanjur membuat 
 
        ALTER TABLE nama_table MODIFY COLUMN column_yang_mau_diedit tipedata;
 
-Kita sudah di ujung artikel kali ini mengenai Belajar query sql #2 , kita dapat mendapatkan cara membuat table, menghpus table , memodify column dan lain sebagainya. Mohon maaf bila ada kesalahan penulisan karena saya manusia biasa. Sekian terimakasih
+Kita sudah di ujung artikel kali ini mengenai Belajar query sql #2 ,Kita dapat mendapatkan cara membuat table, menghpus table , memodify column dan lain sebagainya. Mohon maaf bila ada kesalahan penulisan karena saya manusia biasa. Sekian terimakasih
