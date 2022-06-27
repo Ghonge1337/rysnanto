@@ -18,8 +18,9 @@ Sebelum menjalankan program nya teman teman terlebih dahulu file program nya di 
 [https://www.rysnanto.eu.org/blog/install-github-cli-di-termux/](https://www.rysnanto.eu.org/blog/install-github-cli-di-termux/ "https://www.rysnanto.eu.org/blog/install-github-cli-di-termux/")
 
 Saya anggap teman-teman sudah meng-installnya mari kita clone repo saya dengan cara ketikan perintah di bawah ini
-
-    git clone https://github.com/Ghonge1337/spam.git
+```
+git clone https://github.com/Ghonge1337/spam.git
+```
 
 Jika sudah maka secara otomatis di Termux teman-teman terdapat folder spam , cek aja menggunakan perinta **ls.**
 
