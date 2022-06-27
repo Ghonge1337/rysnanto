@@ -5,7 +5,7 @@ image = "/uploads/screenshot_20220627-195345_peluncur_pixel.jpg"
 title = "Jahilin temen pakai spam sms"
 
 +++
-**Disclaimer** : Gunakan dengan sewajar nya , jangan berlebih-lebihan.**"Hai Ahli Kitab, janganlah kamu berlebih-lebihan (melampaui batas) dengan cara tidak benar dalam agamamu. Dan janganlah kamu mengikuti hawa nafsu orang-orang yang telah sesat dahulu (sebelum kedatangan Muhammad) dan mereka telah menyesatkan kebanyakan (manusia), dan mereka tersesat dari jalan yang lurus.**” (**QS Al-Maidah:77**).
+**Disclaimer** : Gunakan dengan sewajar nya , jangan berlebih-lebihan.**"**Hai Ahli Kitab, janganlah kamu berlebih-lebihan (melampaui batas) dengan cara tidak benar dalam agamamu. Dan janganlah kamu mengikuti hawa nafsu orang-orang yang telah sesat dahulu (sebelum kedatangan Muhammad) dan mereka telah menyesatkan kebanyakan (manusia), dan mereka tersesat dari jalan yang lurus.” (**QS Al-Maidah:77**).
 
 ## Install Termux
 
@@ -38,7 +38,7 @@ Program spam ini perlu module tambahan agar dapat di jalankan , apabila belum at
 ![](/uploads/screenshot_20220627-195345_peluncur_pixel.jpg)
 
     pip install requests
-
+    
     pip install colorama
 
 ## Menjalankan Program
@@ -49,4 +49,4 @@ Semua sudah kita persiapkan maka sudah saat nya kita jalankan program spam nya u
 
 Untuk menjalankan nya teman-teman ketikan perintah python lalu di ikuti file spam.py lalu masukkan nomer yang ingin di spam dan bagian akhir yaitu jumlah spam nya,tanpa tanda kurung yah. Maka akan ada pesan yang masuk ke nomer tersebut. Bukan hanya di SMS saja , masuk juga ke WhatsApp.
 
-Nah itu dia cara menjahili teman lewat spam sms, jangan digunakan berlebihan ya. Spam tersebut cukup mengganggu. Jika Tan-teman suka dengan artikel ini berikan reaksi kalian di bawah 
+Nah itu dia cara menjahili teman lewat spam sms, jangan digunakan berlebihan ya. Spam tersebut cukup mengganggu. Jika Tan-teman suka dengan artikel ini berikan reaksi kalian di bawah
