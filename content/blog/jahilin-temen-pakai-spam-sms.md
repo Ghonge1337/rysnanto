@@ -27,7 +27,9 @@ Jika sudah maka secara otomatis di Termux teman-teman terdapat folder spam , cek
 
 Setelah selesai clone repo saya , kita akan install Python dulu agar bisa menjalankan program spam sms nya. Untuk menginstall python teman-teman bisa mengetikkan perintah di bawah ini
 
-    pkg install python
+```
+pkg install python
+```
 
 Dengan perintah tersebut maka akan mengunduh python dengan ukuran 456mb kalo gak salah. Tunggu saja hingga proses selesai.
 
@@ -37,15 +39,20 @@ Program spam ini perlu module tambahan agar dapat di jalankan , apabila belum at
 
 ![](/uploads/screenshot_20220627-195345_peluncur_pixel.jpg)
 
-    pip install requests
-    
-    pip install colorama
+``` 
+pip install requests
+```
+```
+pip install colorama
+```
 
 ## Menjalankan Program
 
 Semua sudah kita persiapkan maka sudah saat nya kita jalankan program spam nya untuk menjahili teman kita hahah. Caranya cukup mudah, teman-teman masuk dulu ke folder spam nya dengan cara **CD** spam. Maka secara otomatis masuk ke folder spam. Sekarang teman-teman perlu mengetikkan perintah di bawah ini.
 
-    python spam.py 081225599141 (jumlah_nomor)
+```
+python spam.py 081225599141 (jumlah_nomor)
+```
 
 Untuk menjalankan nya teman-teman ketikan perintah python lalu di ikuti file spam.py lalu masukkan nomer yang ingin di spam dan bagian akhir yaitu jumlah spam nya,tanpa tanda kurung yah. Maka akan ada pesan yang masuk ke nomer tersebut. Bukan hanya di SMS saja , masuk juga ke WhatsApp.
 
