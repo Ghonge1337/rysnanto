@@ -36,6 +36,18 @@ Dengan perintah tersebut maka akan mengunduh python dengan ukuran 456mb kalo gak
 
 Program spam ini perlu module tambahan agar dapat di jalankan , apabila belum atau tidak maka program tidak berjalan dan mengalami error. Di program spam ini hanya memerlukan 2 module saja mari kita install. Pastekan saja perintah di bawah ini.
 
+![](/uploads/screenshot_20220627-195345_peluncur_pixel.jpg)
+
     pip install requests
 
     pip install colorama
+
+## Menjalankan Program
+
+Semua sudah kita persiapkan maka sudah saat nya kita jalankan program spam nya untuk menjahili teman kita hahah. Caranya cukup mudah, teman-teman masuk dulu ke folder spam nya dengan cara **CD** spam. Maka secara otomatis masuk ke folder spam. Sekarang teman-teman perlu mengetikkan perintah di bawah ini.
+
+    python spam.py 081225599141 (jumlah_nomor)
+
+Untuk menjalankan nya teman-teman ketikan perintah python lalu di ikuti file spam.py lalu masukkan nomer yang ingin di spam dan bagian akhir yaitu jumlah spam nya,tanpa tanda kurung yah. Maka akan ada pesan yang masuk ke nomer tersebut. Bukan hanya di SMS saja , masuk juga ke WhatsApp.
+
+Nah itu dia cara menjahili teman lewat spam sms, jangan digunakan berlebihan ya. Spam tersebut cukup mengganggu. Jika Tan-teman suka dengan artikel ini berikan reaksi kalian di bawah 
