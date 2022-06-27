@@ -10,4 +10,4 @@ title = "Jahilin temen pakai spam sms"
 
 ## Install Termux
 
-Kenapa kok Termux? Ya karena audiens penonton saya rata rata menggunakan android hehehe, buat teman-teman yang 
+Kenapa kok Termux? Ya karena audiens penonton saya rata rata menggunakan android hehehe, buat teman-teman yang pakai laptop nanti saya buatkan.
