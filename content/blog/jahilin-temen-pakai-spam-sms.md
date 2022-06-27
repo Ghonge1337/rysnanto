@@ -14,4 +14,10 @@ Kenapa kok Termux? Ya karena audiens penonton saya rata rata menggunakan android
 
 ## Clone Repository
 
-Sebelum menjalankan program nya teman teman terlebih dahulu file program nya di github saya, untuk cara clone nya harus terlebih dahulu meng-install git cli di Termux. Untuk cara instalasi git sudah ada di blog saya ini atau jika teman-teman malas mencari artikel nya bisa klick link berikut ini 
+Sebelum menjalankan program nya teman teman terlebih dahulu file program nya di github saya, untuk cara clone nya harus terlebih dahulu meng-install git cli di Termux. Untuk cara instalasi git sudah ada di blog saya ini, atau jika teman-teman malas mencari artikel nya bisa klick link berikut ini 
+
+[https://www.rysnanto.eu.org/blog/install-github-cli-di-termux/](https://www.rysnanto.eu.org/blog/install-github-cli-di-termux/ "https://www.rysnanto.eu.org/blog/install-github-cli-di-termux/")
+
+Saya anggap teman-teman sudah meng-installnya mari kita clone repo saya dengan cara ketikan perintah di bawah ini
+
+    git clone https://github.com/Ghonge1337/spam.git
