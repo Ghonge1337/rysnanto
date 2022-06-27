@@ -1,7 +1,6 @@
 +++
 date = 2022-06-26T17:00:00Z
 description = "Jika kamu gabut atau memang jahil bisa nih di coba script python untuk spam sms"
-draft = true
 image = "/uploads/screenshot_20220627-195345_peluncur_pixel.jpg"
 title = "Jahilin temen pakai spam sms"
 
