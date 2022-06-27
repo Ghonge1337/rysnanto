@@ -30,4 +30,12 @@ Setelah selesai clone repo saya , kita akan install Python dulu agar bisa menjal
 
     pkg install python
 
-Dengan perintah tersebut maka akan mengunduh python dengan ukuran 456mb kalo gak salah.
+Dengan perintah tersebut maka akan mengunduh python dengan ukuran 456mb kalo gak salah. Tunggu saja hingga proses selesai.
+
+## Install Module
+
+Program spam ini perlu module tambahan agar dapat di jalankan , apabila belum atau tidak maka program tidak berjalan dan mengalami error. Di program spam ini hanya memerlukan 2 module saja mari kita install. Pastekan saja perintah di bawah ini.
+
+    pip install requests
+
+    pip install colorama
