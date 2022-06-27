@@ -24,4 +24,10 @@ Saya anggap teman-teman sudah meng-installnya mari kita clone repo saya dengan c
 
 Jika sudah maka secara otomatis di Termux teman-teman terdapat folder spam , cek aja menggunakan perinta **ls.**
 
-## Install Python 
+## **Install Python**
+
+Setelah selesai clone repo saya , kita akan install Python dulu agar bisa menjalankan program spam sms nya. Untuk menginstall python teman-teman bisa mengetikkan perintah di bawah ini
+
+    pkg install python
+
+Dengan perintah tersebut maka akan mengunduh python dengan ukuran 456mb kalo gak salah.
