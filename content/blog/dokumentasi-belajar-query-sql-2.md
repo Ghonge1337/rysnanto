@@ -20,7 +20,8 @@ create table nama_table(
 
 Jadi perintah untuk membuat table adalaha menggunakan create table dan di ikuti dengan nama table yang ingin teman-teman buat, setelah nama table di ikuti dengan tutup kurung dan di dalam tutup kurung tersebut diisi dengan nama **colom** dan **tipe data** nya apa. Jangan lupa jika ingin membuat beberapa kolom di pisah menggunakan tanda koma ( **,** ). Contoh  implementasi :
 
-```  create table user(
+```
+create table user(
     	nisn int(16) primary key,
         username varchar(25),
         password varchar(25)
