@@ -6,4 +6,4 @@ image = ""
 title = "Jahilin temen pakai spam sms"
 
 +++
-**Disclaimer** : Gunakan dengan sewajar nya , jangan berlebih-lebihan.**"**_Hai Ahli Kitab, janganlah kamu berlebih-lebihan (melampaui batas) dengan cara tidak benar dalam agamamu. Dan janganlah kamu mengikuti hawa nafsu orang-orang yang telah sesat dahulu (sebelum kedatangan Muhammad) dan mereka telah menyesatkan kebanyakan (manusia), dan mereka tersesat dari jalan yang lurus._**”** (**QS Al-Maidah:77**).
+**Disclaimer** : Gunakan dengan sewajar nya , jangan berlebih-lebihan.**"**Hai Ahli Kitab, janganlah kamu berlebih-lebihan (melampaui batas) dengan cara tidak benar dalam agamamu. Dan janganlah kamu mengikuti hawa nafsu orang-orang yang telah sesat dahulu (sebelum kedatangan Muhammad) dan mereka telah menyesatkan kebanyakan (manusia), dan mereka tersesat dari jalan yang lurus.**”** (**QS Al-Maidah:77**).
