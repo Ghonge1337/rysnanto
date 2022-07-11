@@ -19,3 +19,5 @@ Caranya cukup simple dan tidak ribet, pastikan di ponsel teman - teman sudah ada
 ### **Menggunakan Browser**
 
 Jika teman-teman menggunakan brwoser, cukup masuk ke dalam website contact google atau bisa klick link ini [https://contacts.google.com/](https://contacts.google.com/ "https://contacts.google.com/"). Kalau teman - teman pakai ponsel maka aktifkan mode desktop terlebih dahulu atau bisa juga tidak usah di aktifkan. untuk selengkapnya simak vidio di bawah ini
+
+<< youtube R-ub_ixDKBg >>
