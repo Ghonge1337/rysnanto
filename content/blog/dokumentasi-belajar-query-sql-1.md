@@ -1,8 +1,10 @@
 ---
-date: 2022-06-01T17:00:00Z
-description: "Belajar menggunakan query sql seperti membuat database menambah dan lain sebagainya di comman prompt"
+date: 2022-06-01T17:00:00.000+00:00
+description: Belajar menggunakan query sql seperti membuat database menambah dan lain
+  sebagainya di comman prompt
 image: "/uploads/screenshot_20220602-164556_peluncur_pixel.png"
-title: "Dokumentasi Belajar query sql  #1"
+title: 'Dokumentasi Belajar query sql  #1'
+draft: true
 
 ---
 Disclaimer : Ini hanya dokumentasi belajar Mohon maaf bila ada penulisan atau query yang salah karena saya juga baru belajar menggunakan query sql, sebelumnya saya menggunakan phpmyadmin nya xampp untuk membuat sebuah database.
