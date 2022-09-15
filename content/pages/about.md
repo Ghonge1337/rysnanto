@@ -8,4 +8,4 @@ menu:
 ---
 ## Rysnanto
 
-Sory! Tidak ada bio data atau keterangan hidup saya yang menarik
+Sory! Tidak ada bio data atau keterangan hidup saya yang menarik. pergi aja ke rumah saya, bila ingin ngopi.
