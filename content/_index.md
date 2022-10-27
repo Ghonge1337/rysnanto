@@ -6,9 +6,9 @@ title: Do'nt judge a person by its cover
 
 **Website Forum :**
 
-1. [https://jongnesia.com]()
-2. [https://jongrpl1.eu.org]()
-3. [https://jongdev.herokuapp.com]()
+1. [https://jongnesia.com](https://jongnesia.com)
+2. [https://jongrpl1.eu.org](https://jongrpl1.eu.org)
+3. [https://jongdev.herokuapp.com](https://jongdev.herokuapp.com)
 
 ## **Certificate**
 
