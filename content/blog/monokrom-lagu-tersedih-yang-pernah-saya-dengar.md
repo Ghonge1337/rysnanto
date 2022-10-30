@@ -1,7 +1,6 @@
 +++
 date = 2022-10-29T17:00:00Z
 description = "Monokrom lagu yang sangat menyentuh hati , bukan karena percintaan. namun tentang sedih nya ketika di tinggal seseorang yang kita anggap sebagai keluarga"
-draft = true
 image = ""
 title = "Monokrom , ku kirim doa ke pada pahlawanku"
 
