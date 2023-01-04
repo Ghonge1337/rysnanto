@@ -15,7 +15,6 @@ fields:
   name: image
   label: image
 pages:
-- content/blog/Seri Belajar Bareng /halo.md
 - content/blog/dokumentasi-belajar-query-sql-2.md
 - content/blog/dokumentasi-kunjungan-ki-kunjungan-industri.md
 - content/blog/install-github-cli-di-termux.md
