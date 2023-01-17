@@ -5,6 +5,13 @@ admin_path: "/static/admin"
 webhook_url: 
 sections:
 - type: directory
+  path: content/tugas
+  label: tugas
+  create: all
+  match: "**/*"
+  templates:
+  - blog
+- type: directory
   path: content/course
   label: Seri Belajar Bareng
   create: all
