@@ -5,17 +5,17 @@ image = ""
 title = "membuat auth login multi user"
 
 +++
-[Rysnanto](rysnanto.eu.org) - Berikut ini merupakan rincian tugas membuat auth login dengan PHP native. 
+[Rysnanto](rysnanto.eu.org) - Berikut ini merupakan rincian tugas membuat auth login dengan PHP native.
 
-Logic 
+Logic
+
+>     $data = mysqli_fetch_assoc($query);
+>     if($data['role'] == "admin"){
+>        $_SESSION = "admin";
+>        ("Location: dashboard/index.php");
+>     }else{
+>        $_SESSION = "user";
+>        header("Location: dashboard/index.php");
+>     }
 
     
-    
-    $data = mysqli_fetch_assoc($query);
-    if($data['role'] == "admin"){
-       $_SESSION = "admin";
-       ("Location: dashboard/index.php");
-    }else{
-       $_SESSION = "user";
-       header("Location: dashboard/index.php");
-    }
