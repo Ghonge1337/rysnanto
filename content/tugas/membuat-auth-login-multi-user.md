@@ -5,4 +5,10 @@ image = ""
 title = "membuat auth login multi user"
 
 +++
-Rysnanto - Berikut ini merupakan rincian tugas 
+[Rysnanto](rysnanto.eu.org) - Berikut ini merupakan rincian tugas membuat auth login dengan PHP native. 
+
+Logic 
+
+    if($data['role'] == "admin"){
+       $_SESSION 
+    }
