@@ -7,7 +7,9 @@ title = "membuat auth login multi user"
 +++
 [Rysnanto](rysnanto.eu.org) - Berikut ini merupakan rincian tugas membuat auth login dengan PHP native.
 
-Akun admin untuk coba login :
+**Demo** : [https://travel.jongnesia.com](https://travel.jongnesia.com)
+
+untuk coba login :
 
 **Username** : Rysnanto
 
