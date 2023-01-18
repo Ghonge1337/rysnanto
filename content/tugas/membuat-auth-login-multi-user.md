@@ -7,7 +7,15 @@ title = "membuat auth login multi user"
 +++
 [Rysnanto](rysnanto.eu.org) - Berikut ini merupakan rincian tugas membuat auth login dengan PHP native.
 
-Logic
+Akun admin untuk coba login :
+
+**Username** : Rysnanto
+
+**Password** : admin@rysnanto
+
+## **Penjelasan**
+
+Di bawah ini merupakan logika sederhana membuat multi user , logika nya masih ngawur dan untuk keamanan kurang begitu mengerti. Use your brains!
 
 >     $data = mysqli_fetch_assoc($query);
 >     if($data['role'] == "admin"){
