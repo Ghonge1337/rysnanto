@@ -9,6 +9,13 @@ title = "membuat auth login multi user"
 
 Logic 
 
+    
+    
+    $data = mysqli_fetch_assoc($query);
     if($data['role'] == "admin"){
-       $_SESSION 
+       $_SESSION = "admin";
+       ("Location: dashboard/index.php");
+    }else{
+       $_SESSION = "user";
+       header("Location: dashboard/index.php");
     }
