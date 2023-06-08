@@ -3,7 +3,7 @@ date = 2022-06-29T17:00:00Z
 description = "Begini Caranya Mengembalikkan Kontak Yang Terhapus , Namun di khususkan untuk yang menyimpan kontak di email."
 image = "/uploads/ss.png"
 title = "Memulihkan Kontak yang terhapus"
-
+draft = true
 +++
 **Disclaimer** : Syarat agar bisa mengikuti tutorial ini adalah kontak yang tersimpan di gmail teman-teman, jadi kontak yang di simpan di perangkat tidak bisa mengikuti tutorial pada seri ini.
 
